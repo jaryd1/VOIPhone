@@ -1,0 +1,2 @@
+include ':app', ':opuscodec', ':net', ':videocodec', ':gles'
+rootProject.name='VOIPhone'

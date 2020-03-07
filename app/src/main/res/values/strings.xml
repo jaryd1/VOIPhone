@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VOIPhone</string>
+    <dimen name="call_icon_size">64dp</dimen>
+</resources>
